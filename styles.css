@@ -3,15 +3,21 @@ body {
     margin: 0;
 }
 
+footer {
+    background: #2C2F27;
+    padding: 40px;
+    color: beige;
+    font-size: 20px;
+}
+
 header {
     margin: 0;
 }
 
 ul {
-    background: lightblue;
+    background: #FFFFFF;
     padding: 20px;
     margin: 0;
-    background: white;
 }
 
 header ul {
@@ -24,11 +30,15 @@ ul li {
 }
 
 ul li a {
-    color: #131511;
+    color: #2B2F26;
 }
 
 ul li a:hover {
-    color: #967343;
+    color: #CD5D67;
+}
+
+ul li a:active {
+    color: #968772;
 }
 
 .main-title {
