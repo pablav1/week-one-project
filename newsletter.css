@@ -1,0 +1,54 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+}
+#logo{
+    background-color: ;
+    flex: 0 1 20%;
+    padding: 0px;
+    
+}
+#logo img{
+    height: 60px;
+    padding: 5px;
+    
+}
+
+nav{
+    background-color: ;
+    flex: 0 1 70%
+}
+nav ul{
+    display: flex;
+    padding: 10px;
+    background-color;
+    list-style: none;
+    
+}
+nav li{
+    padding-left: 80px;
+    
+}
+.jar{
+    padding: 250px;
+    background-image: url(./images/background-2.jpg);
+    
+}
+#pot{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+    background-color: aqua;
+}
+#font{
+    font-size: 30px;
+    align-self: center;
+}
+
+
+    
